@@ -1,6 +1,6 @@
 # Automatic-Number-Plate-Recognition
 
-Automatic Car License/Number Plate recognition System
+Automatic Car License/Number Plate recognition System developed as an ideation level project at DeepWrex Technologies.
 
 ## Korean(Hangul) Number Plates
 
