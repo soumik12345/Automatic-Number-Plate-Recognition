@@ -4,6 +4,6 @@ Automatic Car License/Number Plate recognition System developed as an ideation l
 
 ## Korean(Hangul) Number Plates
 
-[Notebook](./Korean_License_Plate.ipynb)
+**Article Link:** [https://soumik12345.github.io/geekyrakshit-blog/computervision/deeplearning/anpr/numberplate/neuralnetwork/crnn/convolution/recurrent/keras/python/tensorflow/2020/04/13/anpr.html][https://soumik12345.github.io/geekyrakshit-blog/computervision/deeplearning/anpr/numberplate/neuralnetwork/crnn/convolution/recurrent/keras/python/tensorflow/2020/04/13/anpr.html]
 
 ![Korean License Plate Results](./korean_license_plate.png)
